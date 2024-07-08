@@ -1,0 +1,22 @@
+
+******************************** Classifier: LinearDiscriminantAnalysis ********************************
+
+----------------------------------------Fold: 1-----------------------------------------------------
+Before Sampling: Acc Train: 36.30% , Test: 36.09% F1 Train: 0.16, F1 Test: 0.16
+After Resampling: Acc Train: 25.60% , Test: 25.87% F1 Train: 0.19, F1 Test: 0.19
+
+----------------------------------------Fold: 2-----------------------------------------------------
+Before Sampling: Acc Train: 36.20% , Test: 36.28% F1 Train: 0.16, F1 Test: 0.16
+After Resampling: Acc Train: 25.66% , Test: 25.63% F1 Train: 0.19, F1 Test: 0.19
+
+----------------------------------------Fold: 3-----------------------------------------------------
+Before Sampling: Acc Train: 36.21% , Test: 36.38% F1 Train: 0.16, F1 Test: 0.16
+After Resampling: Acc Train: 25.68% , Test: 25.61% F1 Train: 0.19, F1 Test: 0.19
+
+----------------------------------------Fold: 4-----------------------------------------------------
+Before Sampling: Acc Train: 36.26% , Test: 36.29% F1 Train: 0.16, F1 Test: 0.16
+After Resampling: Acc Train: 25.72% , Test: 25.47% F1 Train: 0.19, F1 Test: 0.19
+
+----------------------------------------Fold: 5-----------------------------------------------------
+Before Sampling: Acc Train: 36.29% , Test: 36.21% F1 Train: 0.16, F1 Test: 0.16
+After Resampling: Acc Train: 25.62% , Test: 25.61% F1 Train: 0.19, F1 Test: 0.19

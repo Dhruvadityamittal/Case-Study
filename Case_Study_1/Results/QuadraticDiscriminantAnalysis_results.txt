@@ -1,0 +1,38 @@
+
+******************************** Classifier: QuadraticDiscriminantAnalysis ********************************
+
+----------------------------------------Fold: 1-----------------------------------------------------
+Before Sampling: Acc Train: 37.86%, Test: 37.56%, F1 Train: 0.19, F1 Test: 0.19
+After Resampling: Acc Train: 26.93%, Test: 27.19%, F1 Train: 0.21, F1 Test: 0.20
+
+----------------------------------------Fold: 2-----------------------------------------------------
+Before Sampling: Acc Train: 37.76%, Test: 37.60%, F1 Train: 0.19, F1 Test: 0.19
+After Resampling: Acc Train: 26.97%, Test: 27.00%, F1 Train: 0.21, F1 Test: 0.20
+
+----------------------------------------Fold: 3-----------------------------------------------------
+Before Sampling: Acc Train: 37.72%, Test: 37.68%, F1 Train: 0.19, F1 Test: 0.19
+After Resampling: Acc Train: 26.94%, Test: 26.92%, F1 Train: 0.20, F1 Test: 0.20
+
+----------------------------------------Fold: 4-----------------------------------------------------
+Before Sampling: Acc Train: 37.82%, Test: 37.77%, F1 Train: 0.19, F1 Test: 0.19
+After Resampling: Acc Train: 26.93%, Test: 26.84%, F1 Train: 0.20, F1 Test: 0.20
+
+----------------------------------------Fold: 5-----------------------------------------------------
+Before Sampling: Acc Train: 37.81%, Test: 37.73%, F1 Train: 0.19, F1 Test: 0.19
+After Resampling: Acc Train: 26.90%, Test: 26.89%, F1 Train: 0.20, F1 Test: 0.20
+
+----------------------------------------Result Summary ----------------------------------------
+Accuracy Train Before Sampling 0.3779 ± 0.0005
+Accuracy Train After Sampling 0.2694 ± 0.0002
+
+Accuracy Test Before Sampling 0.3767 ± 0.0008
+Accuracy Test After Sampling 0.2697 ± 0.0012
+
+F1 Train Before Sampling 0.1927 ± 0.0006
+F1 Train After Sampling 0.2036 ± 0.0020
+
+F1 Test Before Sampling 0.1905 ± 0.0016
+F1 Test After Sampling 0.2033 ± 0.0004
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX

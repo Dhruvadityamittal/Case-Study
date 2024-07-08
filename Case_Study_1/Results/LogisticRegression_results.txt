@@ -1,0 +1,38 @@
+
+******************************** Classifier: LogisticRegression ********************************
+
+----------------------------------------Fold: 1-----------------------------------------------------
+Before Sampling: Acc Train: 31.25%, Test: 30.85%, F1 Train: 0.10, F1 Test: 0.10
+After Resampling: Acc Train: 18.86%, Test: 19.02%, F1 Train: 0.15, F1 Test: 0.14
+
+----------------------------------------Fold: 2-----------------------------------------------------
+Before Sampling: Acc Train: 31.34%, Test: 31.17%, F1 Train: 0.10, F1 Test: 0.10
+After Resampling: Acc Train: 19.04%, Test: 19.02%, F1 Train: 0.15, F1 Test: 0.15
+
+----------------------------------------Fold: 3-----------------------------------------------------
+Before Sampling: Acc Train: 31.78%, Test: 32.03%, F1 Train: 0.11, F1 Test: 0.11
+After Resampling: Acc Train: 18.83%, Test: 18.93%, F1 Train: 0.15, F1 Test: 0.15
+
+----------------------------------------Fold: 4-----------------------------------------------------
+Before Sampling: Acc Train: 31.27%, Test: 31.46%, F1 Train: 0.10, F1 Test: 0.10
+After Resampling: Acc Train: 19.37%, Test: 19.27%, F1 Train: 0.15, F1 Test: 0.15
+
+----------------------------------------Fold: 5-----------------------------------------------------
+Before Sampling: Acc Train: 31.46%, Test: 31.58%, F1 Train: 0.11, F1 Test: 0.11
+After Resampling: Acc Train: 18.81%, Test: 18.96%, F1 Train: 0.15, F1 Test: 0.14
+
+----------------------------------------Result Summary ----------------------------------------
+Accuracy Train Before Sampling 0.3142 ± 0.0019
+Accuracy Train After Sampling 0.1898 ± 0.0021
+
+Accuracy Test Before Sampling 0.3142 ± 0.0040
+Accuracy Test After Sampling 0.1904 ± 0.0012
+
+F1 Train Before Sampling 0.1050 ± 0.0027
+F1 Train After Sampling 0.1460 ± 0.0007
+
+F1 Test Before Sampling 0.1050 ± 0.0034
+F1 Test After Sampling 0.1459 ± 0.0018
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX

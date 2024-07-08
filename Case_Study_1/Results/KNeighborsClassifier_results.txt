@@ -1,0 +1,38 @@
+
+******************************** Classifier: KNeighborsClassifier ********************************
+
+----------------------------------------Fold: 1-----------------------------------------------------
+Before Sampling: Acc Train: 48.13%, Test: 26.60%, F1 Train: 0.30, F1 Test: 0.12
+After Resampling: Acc Train: 58.71%, Test: 59.05%, F1 Train: 0.62, F1 Test: 0.61
+
+----------------------------------------Fold: 2-----------------------------------------------------
+Before Sampling: Acc Train: 48.00%, Test: 26.79%, F1 Train: 0.29, F1 Test: 0.12
+After Resampling: Acc Train: 58.84%, Test: 58.63%, F1 Train: 0.61, F1 Test: 0.62
+
+----------------------------------------Fold: 3-----------------------------------------------------
+Before Sampling: Acc Train: 48.13%, Test: 26.95%, F1 Train: 0.29, F1 Test: 0.13
+After Resampling: Acc Train: 58.72%, Test: 58.57%, F1 Train: 0.61, F1 Test: 0.61
+
+----------------------------------------Fold: 4-----------------------------------------------------
+Before Sampling: Acc Train: 48.26%, Test: 26.66%, F1 Train: 0.30, F1 Test: 0.12
+After Resampling: Acc Train: 58.81%, Test: 58.87%, F1 Train: 0.61, F1 Test: 0.62
+
+----------------------------------------Fold: 5-----------------------------------------------------
+Before Sampling: Acc Train: 48.18%, Test: 26.64%, F1 Train: 0.29, F1 Test: 0.13
+After Resampling: Acc Train: 58.71%, Test: 58.71%, F1 Train: 0.62, F1 Test: 0.61
+
+----------------------------------------Result Summary ----------------------------------------
+Accuracy Train Before Sampling 0.4814 ± 0.0009
+Accuracy Train After Sampling 0.5876 ± 0.0005
+
+Accuracy Test Before Sampling 0.2673 ± 0.0013
+Accuracy Test After Sampling 0.5877 ± 0.0017
+
+F1 Train Before Sampling 0.2945 ± 0.0016
+F1 Train After Sampling 0.6147 ± 0.0017
+
+F1 Test Before Sampling 0.1250 ± 0.0014
+F1 Test After Sampling 0.6146 ± 0.0007
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX

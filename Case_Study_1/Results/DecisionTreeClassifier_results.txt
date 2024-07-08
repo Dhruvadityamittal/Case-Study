@@ -1,0 +1,38 @@
+
+******************************** Classifier: DecisionTreeClassifier ********************************
+
+----------------------------------------Fold: 1-----------------------------------------------------
+Before Sampling: Acc Train: 99.96%, Test: 29.79%, F1 Train: 1.00, F1 Test: 0.22
+After Resampling: Acc Train: 99.93%, Test: 99.93%, F1 Train: 1.00, F1 Test: 1.00
+
+----------------------------------------Fold: 2-----------------------------------------------------
+Before Sampling: Acc Train: 99.96%, Test: 29.48%, F1 Train: 1.00, F1 Test: 0.21
+After Resampling: Acc Train: 99.93%, Test: 99.94%, F1 Train: 1.00, F1 Test: 1.00
+
+----------------------------------------Fold: 3-----------------------------------------------------
+Before Sampling: Acc Train: 99.96%, Test: 29.53%, F1 Train: 1.00, F1 Test: 0.21
+After Resampling: Acc Train: 99.93%, Test: 99.93%, F1 Train: 1.00, F1 Test: 1.00
+
+----------------------------------------Fold: 4-----------------------------------------------------
+Before Sampling: Acc Train: 99.96%, Test: 29.93%, F1 Train: 1.00, F1 Test: 0.22
+After Resampling: Acc Train: 99.93%, Test: 99.94%, F1 Train: 1.00, F1 Test: 1.00
+
+----------------------------------------Fold: 5-----------------------------------------------------
+Before Sampling: Acc Train: 99.96%, Test: 29.63%, F1 Train: 1.00, F1 Test: 0.22
+After Resampling: Acc Train: 99.94%, Test: 99.92%, F1 Train: 1.00, F1 Test: 1.00
+
+----------------------------------------Result Summary ----------------------------------------
+Accuracy Train Before Sampling 0.9996 ± 0.0000
+Accuracy Train After Sampling 0.9993 ± 0.0000
+
+Accuracy Test Before Sampling 0.2967 ± 0.0017
+Accuracy Test After Sampling 0.9993 ± 0.0001
+
+F1 Train Before Sampling 0.9997 ± 0.0000
+F1 Train After Sampling 0.9994 ± 0.0001
+
+F1 Test Before Sampling 0.2163 ± 0.0020
+F1 Test After Sampling 0.9994 ± 0.0001
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX

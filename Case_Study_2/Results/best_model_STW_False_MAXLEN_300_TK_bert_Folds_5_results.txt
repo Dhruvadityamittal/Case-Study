@@ -5,47 +5,25 @@
 Best Validation Accuracy: 0.9293, Training Accuracy for Best Validation epoch: 0.9346, Test Accuracy: 0.9133
 Best Validation F1: 0.9303, Training F1 for Best Validation epoch: 0.9345, Test F1: 0.9134
 
-----------------------------------------Fold: 1-----------------------------------------------------
-Best Validation Accuracy: 0.9292, Training Accuracy for Best Validation epoch: 0.9537, Test Accuracy: 0.9178
-Best Validation F1: 0.9301, Training F1 for Best Validation epoch: 0.9537, Test F1: 0.9180
 
 ----------------------------------------Fold: 2-----------------------------------------------------
 Best Validation Accuracy: 0.9272, Training Accuracy for Best Validation epoch: 0.9409, Test Accuracy: 0.9270
 Best Validation F1: 0.9262, Training F1 for Best Validation epoch: 0.9410, Test F1: 0.9269
 
-----------------------------------------Fold: 2-----------------------------------------------------
-Best Validation Accuracy: 0.9287, Training Accuracy for Best Validation epoch: 0.9611, Test Accuracy: 0.9302
-Best Validation F1: 0.9276, Training F1 for Best Validation epoch: 0.9612, Test F1: 0.9300
 
 ----------------------------------------Fold: 3-----------------------------------------------------
 Best Validation Accuracy: 0.9298, Training Accuracy for Best Validation epoch: 0.9618, Test Accuracy: 0.9255
 Best Validation F1: 0.9297, Training F1 for Best Validation epoch: 0.9618, Test F1: 0.9261
 
-----------------------------------------Fold: 3-----------------------------------------------------
-Best Validation Accuracy: 0.9300, Training Accuracy for Best Validation epoch: 0.9423, Test Accuracy: 0.9245
-Best Validation F1: 0.9297, Training F1 for Best Validation epoch: 0.9422, Test F1: 0.9251
 
 ----------------------------------------Fold: 4-----------------------------------------------------
 Best Validation Accuracy: 0.9300, Training Accuracy for Best Validation epoch: 0.9427, Test Accuracy: 0.9183
 Best Validation F1: 0.9302, Training F1 for Best Validation epoch: 0.9428, Test F1: 0.9173
 
-----------------------------------------Fold: 4-----------------------------------------------------
-Best Validation Accuracy: 0.9313, Training Accuracy for Best Validation epoch: 0.9531, Test Accuracy: 0.9195
-Best Validation F1: 0.9317, Training F1 for Best Validation epoch: 0.9532, Test F1: 0.9185
-
 ----------------------------------------Fold: 5-----------------------------------------------------
 Best Validation Accuracy: 0.9292, Training Accuracy for Best Validation epoch: 0.9693, Test Accuracy: 0.9223
 Best Validation F1: 0.9290, Training F1 for Best Validation epoch: 0.9693, Test F1: 0.9227
 
-XXXXXXXXXXXXXXXXXXXXXXXXX Results Summary XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-Train Accuracy: 0.9499 ± 0.0133, F1: 0.9499 ± 0.0133
-Val Accuracy: 0.9291 ± 0.0010, F1: 0.9291 ± 0.0015
-Test Accuracy: 0.9213 ± 0.0050, F1: 0.9213 ± 0.0052
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-----------------------------------------Fold: 5-----------------------------------------------------
-Best Validation Accuracy: 0.9302, Training Accuracy for Best Validation epoch: 0.9533, Test Accuracy: 0.9212
-Best Validation F1: 0.9300, Training F1 for Best Validation epoch: 0.9533, Test F1: 0.9215
 
 XXXXXXXXXXXXXXXXXXXXXXXXX Results Summary XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 Train Accuracy: 0.9527 ± 0.0060, F1: 0.9527 ± 0.0061

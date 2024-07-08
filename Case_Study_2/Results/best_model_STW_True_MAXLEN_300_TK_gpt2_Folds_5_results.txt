@@ -1,0 +1,2 @@
+
+*************** Tokenizer: gpt2, MAX LEN: 300, Remove Stop Words: True ***************

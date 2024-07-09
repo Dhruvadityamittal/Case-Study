@@ -34,8 +34,8 @@ parser.add_argument('--EARLY_STOPPING_COUNT', default=5, type=int, help='Early S
 args = parser.parse_args()
 
 # Load training and validation data
-train_df = pd.read_csv(r"C:\Users\Dhruv\Downloads\cluepoints_case\cluepoints_case\Stack_OverFlow\Data\stack_overflow_questions_train.csv")
-val_df = pd.read_csv(r"C:\Users\Dhruv\Downloads\cluepoints_case\cluepoints_case\Stack_OverFlow\Data\stack_overflow_questions_valid.csv")
+train_df = pd.read_csv(r"C:\Users\Dhruv\Downloads\cluepoints_case\cluepoints_case\Case_Study_2\Data\stack_overflow_questions_train.csv")
+val_df = pd.read_csv(r"C:\Users\Dhruv\Downloads\cluepoints_case\cluepoints_case\Case_Study_2\Data\stack_overflow_questions_valid.csv")
 
 # Merge and clean text data
 train_df = merge_text(train_df)

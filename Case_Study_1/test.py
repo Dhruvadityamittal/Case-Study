@@ -27,7 +27,7 @@ with open(f"{model_save_path}{classifier_name}_Fold_{args.fold-1}.pkl", 'rb') as
     model = joblib.load(f)
 
 # Load the training data
-train = pd.read_csv(r"C:\Users\Dhruv\Downloads\cluepoints_case\cluepoints_case\Health\Data\hospital_stay_data.csv")
+train = pd.read_csv(r"C:\Users\Dhruv\Downloads\cluepoints_case\cluepoints_case\Case_Study_1\Data\hospital_stay_data.csv")
 
 # Process the data using a custom function
 processed_data = get_procesed_data(train)

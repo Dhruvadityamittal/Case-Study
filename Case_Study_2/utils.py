@@ -67,8 +67,8 @@ def get_model_evaluations(model, dataloader,loss_fn,  device):
     all_preds = []
     all_actuals  = []
     for batch_idx, d in enumerate(dataloader):
-        if(batch_idx>1):
-            break
+        # if(batch_idx>1):
+        #     break
         input_ids = d["input_ids"].to(device)
         attention_mask = d["attention_mask"].to(device)
         sentiments = d["sentiments"].to(device)

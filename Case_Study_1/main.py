@@ -29,7 +29,7 @@ acc_train_before_sampling, acc_train_after_sampling = [], []
 acc_test_before_sampling, acc_test_after_sampling = [], []
 
 if __name__ == '__main__':
-    train = pd.read_csv(r"C:\Users\Dhruv\Downloads\cluepoints_case\cluepoints_case\Health\Data\hospital_stay_data.csv")
+    train = pd.read_csv(r"C:\Users\Dhruv\Downloads\cluepoints_case\cluepoints_case\Case_Study_1\Data\hospital_stay_data.csv")
 
     # Process the data using a custom function
     processed_data = get_procesed_data(train)

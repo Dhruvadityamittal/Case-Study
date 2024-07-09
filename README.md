@@ -3,7 +3,7 @@ This repository contains code for 2 case studies
   1. Case Study 1: Classification with structured input data.
   2. Case Study 2: Classification with unstructured input data.
 
-# Each Folder contains its own README.md file
+## Each Case Study contains its own README.md file
 
 #### Folders:
 - **Results**: Contains performance logs of various models.

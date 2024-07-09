@@ -40,3 +40,5 @@ This directory contains a comprehensive set of tools for analyzing and predictin
     ```
     streamlit run test_web_application.py
     ```
+### Web Application Video Snip    
+https://github.com/Dhruvadityamittal/Case-Study/assets/22571412/18ff6cb2-eca1-4f31-8adb-bf86688b3641

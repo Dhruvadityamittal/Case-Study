@@ -3,14 +3,22 @@
 ## Author: Dhruv Aditya Mittal
 
 ### Overview
-This directory contains a comprehensive set of tools for analyzing and predicting outcomes using a healthcare dataset provided by Cluepoints for their interview process.
+This directory contains a comprehensive set of tools for analyzing and predicting length of stay from a healthcare dataset.
 
 ### Contents
 
 #### Files:
-- **Main.py**: Implements 5-fold cross-validation with various classifiers.
-- **Test.py**: Evaluates the performance of trained classifiers on different test datasets.
-- **Hospital_stay_EDA.ipynb**: Jupyter notebook for data analysis and Exploratory Data Analysis (EDA).
+- **main.py**: Implements 5-fold cross-validation with various classifiers.
+- **test.py**: Evaluates the performance of trained classifiers on different test datasets.
+- **hospital_stay_EDA.ipynb**: Jupyter notebook for data analysis and Exploratory Data Analysis (EDA).
+- **models.py**: Contains models for training.
+- **utils.py**: Utility file for data analysis.
+- **data_handling.py**: File containing functions for processing the data.
+- **requirements.txt**: Libraries used to run the code.
+  - To install the requirements :
+    ```
+    pip install -r requirements.txt
+    ```
 
 #### Folders:
 - **Results**: Contains performance logs of various models.

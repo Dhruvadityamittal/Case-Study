@@ -20,7 +20,7 @@ This repository contains code for 2 case studies
   ## Case Study 1
    https://github.com/Dhruvadityamittal/Case-Study/assets/22571412/9ceb1f4b-5921-46a5-82f0-9f176ab7a539
   ## Case Study 2
-    https://github.com/Dhruvadityamittal/Case-Study/assets/22571412/a3acf917-2670-4100-9fc9-626c98abf5cd
+   https://github.com/Dhruvadityamittal/Case-Study/assets/22571412/a3acf917-2670-4100-9fc9-626c98abf5cd
 
 
 

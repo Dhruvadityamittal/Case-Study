@@ -41,3 +41,7 @@ This directory provides a complete set of tools for classifying Stack Overflow q
     ```
     streamlit run test_web_application.py
     ```
+### Web Application Video Snip    
+https://github.com/Dhruvadityamittal/Case-Study/assets/22571412/26af9ea2-5086-4829-a139-ec367435ef64
+
+

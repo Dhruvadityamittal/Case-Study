@@ -121,8 +121,8 @@ for fold, (train_idx, val_idx) in enumerate(kf.split(full_df)):
         all_preds, all_actuals = [], []
 
         for batch_idx, batch_data in pbar:
-            if batch_idx > 1:
-                break
+            # if batch_idx > 1:
+            #     break
             input_ids = batch_data["input_ids"].to(device)
             attention_mask = batch_data["attention_mask"].to(device)
             sentiments = batch_data["sentiments"].to(device)

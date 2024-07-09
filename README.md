@@ -15,3 +15,10 @@ This repository contains code for 2 case studies
     ```
     streamlit run test_web_application.py
     ```
+
+### Web Application Video Snip    
+  ## Case Study 1
+    https://github.com/Dhruvadityamittal/Case-Study/assets/22571412/18ff6cb2-eca1-4f31-8adb-bf86688b3641
+  ## Case Study 2
+    https://github.com/Dhruvadityamittal/Case-Study/assets/22571412/26af9ea2-5086-4829-a139-ec367435ef64
+  

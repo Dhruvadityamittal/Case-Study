@@ -10,8 +10,8 @@ This directory contains a comprehensive set of tools for analyzing and predictin
 #### Files:
 - **main.py**: Implements 5-fold cross-validation with various classifiers.
   - Arguments
-    1 K: No of Folds
-    2 model: Type of Classifer
+    - K: No of Folds
+    - model: Type of Classifer
       -   Logistic Regression
       -   Decision Tree Classifier
       -   Random Forest Classifier

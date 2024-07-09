@@ -1,0 +1,28 @@
+
+*************** Tokenizer: bert, MAX LEN: 300, Remove Stop Words: True ***************
+
+----------------------------------------Fold: 1-----------------------------------------------------
+Best Validation Accuracy: 0.8870, Training Accuracy for Best Validation epoch: 0.9038, Test Accuracy: 0.8795
+Best Validation F1: 0.8879, Training F1 for Best Validation epoch: 0.9032, Test F1: 0.8788
+
+----------------------------------------Fold: 2-----------------------------------------------------
+Best Validation Accuracy: 0.8903, Training Accuracy for Best Validation epoch: 0.8927, Test Accuracy: 0.8570
+Best Validation F1: 0.8884, Training F1 for Best Validation epoch: 0.8923, Test F1: 0.8588
+
+----------------------------------------Fold: 3-----------------------------------------------------
+Best Validation Accuracy: 0.8840, Training Accuracy for Best Validation epoch: 0.9116, Test Accuracy: 0.8832
+Best Validation F1: 0.8835, Training F1 for Best Validation epoch: 0.9112, Test F1: 0.8837
+
+----------------------------------------Fold: 4-----------------------------------------------------
+Best Validation Accuracy: 0.8820, Training Accuracy for Best Validation epoch: 0.9277, Test Accuracy: 0.8707
+Best Validation F1: 0.8817, Training F1 for Best Validation epoch: 0.9276, Test F1: 0.8700
+
+----------------------------------------Fold: 5-----------------------------------------------------
+Best Validation Accuracy: 0.8883, Training Accuracy for Best Validation epoch: 0.9025, Test Accuracy: 0.8732
+Best Validation F1: 0.8875, Training F1 for Best Validation epoch: 0.9019, Test F1: 0.8739
+
+XXXXXXXXXXXXXXXXXXXXXXXXX Results Summary XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Train Accuracy: 0.9077 ± 0.0117, F1: 0.9072 ± 0.0118
+Val Accuracy: 0.8863 ± 0.0030, F1: 0.8858 ± 0.0027
+Test Accuracy: 0.8727 ± 0.0090, F1: 0.8730 ± 0.0085
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX

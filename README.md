@@ -18,7 +18,7 @@ This repository contains code for 2 case studies
 
 ### Web Application Video Snip    
   ## Case Study 1
-    https://github.com/Dhruvadityamittal/Case-Study/assets/22571412/18ff6cb2-eca1-4f31-8adb-bf86688b3641
+   https://github.com/Dhruvadityamittal/Case-Study/assets/22571412/9ceb1f4b-5921-46a5-82f0-9f176ab7a539
   ## Case Study 2
-    https://github.com/Dhruvadityamittal/Case-Study/assets/22571412/26af9ea2-5086-4829-a139-ec367435ef64
-  
+    https://github.com/Dhruvadityamittal/Case-Study/assets/22571412/152f78fa-2cc5-43fd-bb51-1f01413a1bc5
+

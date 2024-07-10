@@ -92,7 +92,7 @@ if __name__ == '__main__':
 
         # Apply SMOTE to balance the dataset
         oversample = SMOTE()
-        X_resampled, Y_resampled = oversample.fit_resample(X, Y)
+        X_resampled, Y_resampled = oversample.fit_resample(x_train, y_train)
 
         # Display new class distribution after resampling
         # get_class_dist(Y_resampled)
